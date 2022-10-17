@@ -1,9 +1,9 @@
 # Generator QR-code in the Telegram Bot ⭐️
 
-![](https://img.shields.io/badge/Python-3-blue)
+![languages](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/last-commit/mython-dev/qr_code_bot)
 
-![test](https://github.com/mython-dev/qr_code_bot/blob/main/video/bot.gif)
+#![](https://github.com/mython-dev/qr_code_bot/blob/main/video/bot.gif)
 
 
 
