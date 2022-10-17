@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/last-commit/mython-dev/qr_code_bot)
 
-![]("https://github.com/mython-dev/qr_code_bot/blob/main/video/bot.mp4")
+![](https://github.com/mython-dev/qr_code_bot/blob/main/video/bot.mp4)
 
 ### Code installation 📝
 
