@@ -5,7 +5,7 @@ import qrcode
 import telebot
 from telebot import *
 
-token = '5768245357:AAGMh04C5CPh0btcIbk2302T1gU38YPWLBo'
+token = ''
 
 bot=telebot.TeleBot(token)
 
